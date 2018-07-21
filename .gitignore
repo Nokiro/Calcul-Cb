@@ -1,9 +1,6 @@
-﻿################################################################################
-# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs/Calcul Cb
-/Valeur piscines.pdf
-/FRCV9.pdf
+/.vs/*
+*.pdf
 /Thumbs.db
 /Source/.vs/Calcul Cb
+/Source/Calcul Cb/obj/Release/*
+/Source/Calcul Cb/obj/Debug/*
